@@ -1,0 +1,16 @@
+
+quarter_start: 2025-09-09
+quarter_end: 2025-12-13
+buffer_minutes: 15
+session_duration_minutes: 60
+target_sessions: 10
+min_sessions: 8
+
+even_spread:
+  soft_caps: {Mon: 3, Tue: 3, Wed: 3, Thu: 3, Fri: 3}
+  alpha: 1.5
+
+crawl:
+  enable_llm_picker: true
+  max_anchors: 30
+  delay_between_schools_seconds: 2

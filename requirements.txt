@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+requests
+beautifulsoup4
+python-dateutil
+PyPDF2
+openai>=1.0.0
