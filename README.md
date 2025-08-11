@@ -9,7 +9,7 @@
 - Build weekly schedule candidates within your quarter dates
 - **Evenly spread** assignments across weekdays (soft caps + penalty)
 - Export **Facilitron-ready CSV**
-
+- Test
 ## Quickstart
 ```bash
 python -m venv .venv && . .venv/bin/activate   # Windows: .venv\Scripts\activate
