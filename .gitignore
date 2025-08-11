@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Config
+*.env
+
+# Compiled files
+*.so
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Ignore exported data
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.db
+*.sqlite3
+
+# Ignore test output
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# Ignore export files
+export/
